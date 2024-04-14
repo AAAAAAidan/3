@@ -1,0 +1,26 @@
+/* Modified from https://codepen.io/vitoralberto/pen/OPYyYB */
+
+body {
+  margin: auto;
+  height: 192px;
+  width: 192px;
+  font-size: 192px;
+  font-family: georgia;
+  text-align: center;
+  color: #fff;
+  background: #1d1f20;
+}
+
+#smile {
+  padding-bottom: 96px;
+  -webkit-animation: rotation 3s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+  }
+}
