@@ -1,5 +1,5 @@
-# [3](https://www.youtube.com/watch?v=teBC7NIaN7A)
+# [39](https://www.youtube.com/watch?v=WzOeoYXk8qY)
 
-- [Threes](https://three.aidan.contact/)
+- [Socks](https://three-nine.aidan.contact/)
 
-- [Trees](https://docs.google.com/document/d/1arln8vhkEqO6F8jIW2FrQ8zeIw5u0MFvroK82_AATVU/edit)
+- [Docks](https://docs.google.com/document/d/1LxBKZhuvF0rVQ1JUcxaVLAjsBp6sdl7rukwy7scLs2Q/edit)
